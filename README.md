@@ -60,15 +60,15 @@ Confusion matrix (Logistic Regression): 19 correct Fail, 18 correct Pass, 0 fals
 Accuracy will vary slightly if you regenerate the dataset.
 
 ## 10. Screenshots
-![student_pass_fail](screenshorts\student_pass_fail.png)
+![student_pass_fail](screenshorts/student_pass_fail.png)
 
-![average_study_hours_fail_pass](screenshorts\average_study_hours_fail_pass.png)
+![average_study_hours_fail_pass](screenshorts/average_study_hours_fail_pass.png)
 
-![average_attendance_fail_pass](screenshorts\average_attendance_fail_pass.png)
+![average_attendance_fail_pass](screenshorts/average_attendance_fail_pass.png)
 
-![previous_marks_final_result](screenshorts\previous_marks_final_result.png)
+![previous_marks_final_result](screenshorts/previous_marks_final_result.png)
 
-![previous_failures_final_result](screenshorts\previous_failures_final_result.png)
+![previous_failures_final_result](screenshorts/previous_failures_final_result.png)
 
 ## 11. How to Run
 ```bash
